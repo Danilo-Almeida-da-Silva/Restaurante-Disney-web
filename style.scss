@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: tomato;
+    height: 100px;
+    padding-top: 30px;
+    
+
+}
+h1{
+    text-align: center;
+    color: beige;
+    
+}
+
+img{
+    width: 300px;
+    
+}
+
+figure{
+    //display: inline-block;
+    margin-left: 200px;
+    margin-top: 15px;
+}
+
+figcaption{
+    text-align: 100%;
+}
